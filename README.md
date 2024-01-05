@@ -1,5 +1,5 @@
 
-# Hi 👋 I am Prathamesh! 
+## Hi 👋 I am Prathamesh! 
 🚀 A passionate Front-End Developer enthusiastic about leveraging technology to build innovative solutions.
 
 🌟 About Me: I'm dedicated to exploring the realms of Web Development, diving deep into Front-End Designs while constantly learning and evolving in this ever-changing tech landscape.
